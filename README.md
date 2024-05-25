@@ -11,7 +11,7 @@ Bu proje, kullanıcıların cinsiyete göre vücut kütle endeksi (VKE) ve yağ 
 ## Kullanım
 
 1. Projeyi Visual Studio'da açtıktan sonra `Ctrl + F5` tuşlarına basarak veya "Başlat" butonuna tıklayarak uygulamayı çalıştırın.
-NOT:Uygulama çalışmazsa "WebProje.sln dosyasını çalıştırın!"
+> **Note:**Uygulama çalışmazsa "WebProje.sln dosyasını çalıştırın!"
 2. Web tarayıcınızda açılan sayfada gerekli bilgileri girerek cinsiyetinizi seçin.
 3. Vücut kütle endeksinizi ve yağ oranınızı hesaplayın.
 
